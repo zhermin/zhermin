@@ -1,10 +1,10 @@
-# 👋 Hey, I'm Zac (Zher Min) 👋
+# 👋 Hey, I'm Zac / Zher Min 👋
 
 ## 👨‍🎓 I'm graduating in May 2023!
-- 💼 Aspiring to be a Software or Machine Learning Engineer
+- 💼 Working towards Software / Machine Learning Engineering
 - 📚 Currently pursuing an Electrical & Data Engineering degree at NUS
-- 💡 I've dabbled in the world of Machine Learning and Data Engineering with Python
-- 🌱 I’m currently deepening my knowledge on fullstack development
+- 💡 Dabbled in the world of Machine Learning and Data Engineering with Python
+- 🌱 Currently deepening my knowledge on fullstack software development
 - 💬 You can hit me up through my email at: `tamzhermin@gmail.com`
 - 📖 Or connect with me through my [LinkedIn](https://www.linkedin.com/in/tamzhermin/ "Zac Tam Zher Min's LinkedIn Profile")
 
