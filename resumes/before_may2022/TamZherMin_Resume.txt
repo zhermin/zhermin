@@ -1,0 +1,75 @@
+TAM ZHER MIN 
++65 8128 7871 • tamzhermin@gmail.com • linkedin.com/in/tamzhermin • github.com/zhermin 
+ 
+ABOUT 
+• Architected an “Automatic Wafer Defect Classification System” with a Windows GUI to deploy >95% accurate CNN models at SSMC, enabling upwards of >90% storage reductions and significant cost savings 
+
+• Well-versed in data pipelining tools to feed data into models and visualizations through the 2 internships 
+
+• Pursuing a Data Engineering Minor alongside my formal Electrical Engineering Bachelor’s Degree 
+
+• Keen interests in AI/ML, Data and Software Engineering, constantly self-learning, seeking opportunities 
+
+
+ 
+EXPERIENCE 
+SSMC (NXP & TSMC JV) – MACHINE LEARNING ENGINEER AUG 2021 – JAN 2022 
+• Trained Convolutional Neural Networks (CNNs) to classify wafer scans at >95% out-of-sample accuracy 
+
+• Leveraged on Tensorflow/Keras and transfer learning alongside cloud computing as well as NVIDIA CUDA/CuDNN for local hardware accelerated training 
+
+• Deployed the models with the final product, a Windows GUI software, and an MVP Streamlit webapp 
+
+
+TIVLON TECHNOLOGIES – DATA ENGINEER & SCIENTIST MAY 2019 – DEC 2019 
+• Cleaned and restructured large amounts of raw Excel data containing commodities’ historical prices 
+
+• Automated an ETL pipeline using Python's data management libraries such as Pandas and Dask 
+
+• Visualized the formatted data by employing cutting-edge BI tools such as Power BI and Tableau 
+
+
+COCURRICULAR ACTIVITIES  
+• Honing my Machine Learning skills under NUS FinTech Society through various Fintech projects 
+
+• Developed and maintained NUS CAPTLife (hostel’s student life website) with WordPress 
+
+• Designed UI/UX Figma mockups for Ladle.SG’s app, a social enterprise incubated under NUS SIC 
+
+
+PERSONAL PROJECTS  
+• Built an NFT appraisal model using CNNs into a regressor through the nftshowroom API 
+
+• Designed a personal portfolio website in vanilla HTML/CSS/JS and a movie searching webapp with React 
+
+• Automated Instagram post-generation with scraped content using Python’s BS4, Selenium & Pillow 
+
+
+ 
+EDUCATION 
+NATIONAL UNIVERSITY OF SINGAPORE AUG 2019 – MAY 2023 
+Bachelor of Engineering, Electrical Engineering; Minor in Data Engineering GPA: 4.42 
+• [EE2211: A-] Machine Learning through linear & polynomial regression, gradient descent, decision trees, random forest, k-means clustering, multi-layer perceptron and neural networks 
+
+• [EE2028: A] Built a med-tech IoT Tkinter GUI with live charting by drawing serial data from the STM32 Cortex-M4 microprocessor alongside SMS alerts through Twilio's API 
+
+• [EE2026: A] Programmed a 53-state voice-interfaced RPG with pixel graphics on the Basys3 FPGA 
+
+• [IE2141: A] Modelled and simulated real-world scenarios and variables using Stella Architect 
+
+
+ 
+HACKATHONS 
+DSTA – BRAINHACK JUN 2021 
+• TIL: Rank 18 in this Machine Learning team hackathon on Computer Vision and Sound Classification 
+
+• SeeTrue: Rank 7 in this Machine Learning solo hackathon in detecting fake news in images and videos 
+
+• CODE_EXP: Built TooHak!, a quiz-maker React Native app to ease remote learning and teaching 
+
+
+NUS HACKERS – HACK & ROLL JAN 2021 
+• Built an Alexa "skill" dubbed QuizLah!, a VUI Local-Multiplayer Singapore Trivia Game 
+
+
+
